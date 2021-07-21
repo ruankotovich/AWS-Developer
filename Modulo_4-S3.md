@@ -32,3 +32,7 @@
  - Recuperação de sinistros
  - Análise de big data
  - Backup e arquivamento (nosso caso)
+
+## Componentes do S3
+- Escopo regional
+  - `https://<bucket_name>:`
