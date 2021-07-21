@@ -50,7 +50,7 @@ Políticas geram permissões para usuários em grupos com determinados papeis
 - DB authentication
 
 ## Credentials
-- .aws/credentials - arquivo de chave
+- `.aws/credentials` - arquivo de chave
 - É preferível usar as ROLES
 - 
 ![picture 25](images/bc57b35d5a0f2f0cee731c64ca9933595545fe423c31f81b01583b99c3f195d9.png)  
