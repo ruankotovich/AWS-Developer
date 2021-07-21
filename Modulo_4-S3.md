@@ -36,3 +36,5 @@
 ## Componentes do S3
 - Escopo regional
   - `https://<bucket_name>.s3.<region_endpoint>.amazonaws.com`
+  - Criptografia embutida de dados
+  - Object lock - WORK (previne que objetos sejam sobreescritos ou deletados por tempo determinado ou para sempre)
