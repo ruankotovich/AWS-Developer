@@ -5,7 +5,7 @@
 - S3
 - S3 Glacier
   - Long-term storage
-  - Baixo custo para armazenamento de longa data
+  - Baixo custo para armazenamento de longa data, durabilidade alta
 - EFS
 - Storage Gateway
 - EBS
