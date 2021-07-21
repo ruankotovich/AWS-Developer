@@ -110,5 +110,19 @@
   - SQS
   - RabbitMQ
 
-
  ![picture 7](images/0f6f121009d50895cad49980c14085a7dd779036a10d53c5a4828bb1c15727f7.png)  
+
+### Arquitetura AWS
+
+![picture 8](images/893745b2c78e3cfe579b135d0ddd096b753435aec19484bfc663ea5f4bde52da.png)  
+
+
+[AWS GCI](https://apps.kaonadn.net/5181491956940800/index.html)
+
+  - AZ (Availability Zone)
+    - Um ou mais datacenters
+    - Arquiteturado para existir isolamento de falha (falha uma AZ, as outras não são afetadas)
+    - Interconectadas com outras AZs usando links de altíssima velocidade
+  - Regions
+    - Localizações geográficas
+    - Duas ou mais AZs
