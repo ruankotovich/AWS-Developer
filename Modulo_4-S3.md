@@ -24,6 +24,8 @@
   - Armazenamento de bloco de longa data
 
 
+**OBS**: é possível rodar SQL no S3 (?????)
+
 ### Casos de uso
  - Armazenamento de mídia
  - Host de site estático
