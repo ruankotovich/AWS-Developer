@@ -22,3 +22,11 @@
 - EBS
   - Montado via network
   - Armazenamento de bloco de longa data
+
+
+### Casos de uso
+ - Armazenamento de mídia
+ - Host de site estático
+ - Recuperação de sinistros
+ - Análise de big data
+ - Backup e arquivamento (nosso caso)
