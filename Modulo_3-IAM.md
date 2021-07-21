@@ -22,11 +22,13 @@ Políticas geram permissões para usuários em grupos com determinados papeis
 ### Tipos de Permissão
 - Baseados em identidade
   - Não precisa do ARN do usuário
+  - Bind serviços para o usuário
 
 - Baseados em recursos
   - Atrelada a um recurso
     - Bucket do S3
     - Instância EC2
+  - Bind usuários para o serviço
 
 ![picture 24](images/41c89ae3c1d8fb9b2e50a6cf6939968a8e62b5d35a6432ed20911b98609a6637.png)  
 
