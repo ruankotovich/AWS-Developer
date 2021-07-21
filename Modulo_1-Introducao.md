@@ -1,4 +1,4 @@
-# Aula 1
+# Módulo 1
 
 ## Pausas
 - Intervalo 9h30 ~ 9h45 (UTC)
