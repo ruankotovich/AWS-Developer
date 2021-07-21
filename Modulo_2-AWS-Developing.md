@@ -48,3 +48,13 @@
 ### Tríade da Escalabilidade
 
 ![picture 15](images/751a4cc726a613a61e05e7d3a404e554915e9d0ac80d156e90b7a7ea406e7d38.png)  
+
+
+### CloudTrail
+![picture 16](images/fda8b932142a7c8c0612ff16089218d168927583aae6206a9b1d7cac315367d3.png)  
+
+- Registros de chamadas de API
+- Armazenar notificações nos buckets do S3
+
+![picture 17](images/467d980ab0c8c15c8fcf0de3bed85b6f5be3a0b86cac85bcb70eef89499606db.png)  
+
