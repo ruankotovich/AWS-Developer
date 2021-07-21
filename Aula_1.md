@@ -14,3 +14,13 @@
 - Overview da infraestrutura
 - Introdução ao AWS Foundation Services
 - Wrap-Up
+
+
+### Cloud Computing
+- IaaS - Infraestructure as a service - rodar a infraestrutura sem gerenciá-la (EC2, por exemplo)
+- PaaS - Platform as a service - rodar aplicações sem gerenciar a infraestrutura (RDS, por exemplo)
+- SaaS - software as service (Lamnda, por exemplo)
+- Parar de pensar a infraestrutura como hardware, e sim pensar nela como um software (seviço). 
+- Não é necessário administrar um datacenter
+- Pensar na aplicação, e só
+- "o servidor não tá dimensionado direitinho...", rapidamente modificável
