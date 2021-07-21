@@ -15,3 +15,22 @@
 
 - Service client API (baixo nível)
 - Resource API (alto nível)
+
+### Cloud9
+- IDE Online
+- Muitas funcionalidades úteis
+  - Debug
+  - Language
+  - Environment
+  - Runtime
+
+### X-Ray
+
+![picture 13](images/4d339d81b87117ada538e0374cfe79ee6328ee061233c2b2a294c0bf6b28d613.png)  
+
+- Analytics 
+  - Número de rotas de /create/user, por exemplo
+  - Resposta
+  - Status
+  - Hora do requests
+  - [Operações (onde você conseguir injetar a SDK)](https://docs.aws.amazon.com/xray/latest/api/API_Operations.html)
