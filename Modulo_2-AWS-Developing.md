@@ -44,3 +44,7 @@
 - Reage aos logs de aplicação e eventos
 - Escala automaticamente instancias EC2
 - Identifica problemas
+
+### Tríade da Escalabilidade
+
+![picture 15](images/751a4cc726a613a61e05e7d3a404e554915e9d0ac80d156e90b7a7ea406e7d38.png)  
