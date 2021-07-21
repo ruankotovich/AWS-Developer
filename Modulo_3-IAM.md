@@ -7,7 +7,7 @@
 - AWS disponibiliza as ferramentas para tornar a aplicação e infraestrutura segura
 - O cliente utiliza os serviços e ferramentas para tornar a aplicação e infraestrutura segura
 
-## IAM
+## IAM (Identity and Access Manager)
 
 Políticas geram permissões para usuários em grupos com determinados papeis
 
@@ -18,3 +18,24 @@ Políticas geram permissões para usuários em grupos com determinados papeis
 ![picture 23](images/3fb7256335e035a0032c71a7bf1a24948f12ffaecda3176ef10efdb94e2c20b8.png)  
 
 - Instâncias podem assumir roles para utilizar recursos
+
+### Tipos de Permissão
+- Baseados em identidade
+  - Não precisa do ARN do usuário
+
+- Baseados em recursos
+  - Atrelada a um recurso
+    - Bucket do S3
+    - Instância EC2
+
+![picture 24](images/41c89ae3c1d8fb9b2e50a6cf6939968a8e62b5d35a6432ed20911b98609a6637.png)  
+
+
+(O NÃO você sempre tem, você busca o SIM)
+
+## ARN (Amazon Resource Names)
+
+- Utilizado pra identificar um recurso de maneira única na aws
+  
+  `arn:aws:<service>:<region>:<account>:<resource_id>`
+
