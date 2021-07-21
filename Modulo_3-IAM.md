@@ -56,7 +56,7 @@ Políticas geram permissões para usuários em grupos com determinados papeis
 ![picture 25](images/bc57b35d5a0f2f0cee731c64ca9933595545fe423c31f81b01583b99c3f195d9.png)  
 
 ### Algoritmo
-- Procura no código
-- Procura nas variáveis de ambiente
-- Procura nos arquivos de credencial
-- Procura nas roles da instância
+- 1. Procura no código
+- 2. Procura nas variáveis de ambiente
+- 3. Procura nos arquivos de credencial
+- 4. Procura nas roles da instância
