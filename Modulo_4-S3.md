@@ -12,5 +12,6 @@
     - Bulk - até 12 horas ($)
 - EFS
   - Multiplos acessos
+  - Mount point
 - Storage Gateway
 - EBS
