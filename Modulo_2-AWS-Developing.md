@@ -34,3 +34,13 @@
   - Status
   - Hora do requests
   - [Operações (onde você conseguir injetar a SDK)](https://docs.aws.amazon.com/xray/latest/api/API_Operations.html)
+
+### CloudWatch
+- Coletor de métricas
+- Monitor de logs
+- Alarmes
+- Gráficos e estatísticas
+- Monotirar CPU, memória, disco, rede, etc
+- Reage aos logs de aplicação e eventos
+- Escala automaticamente instancias EC2
+- Identifica problemas
