@@ -69,4 +69,30 @@
 - Não é gerenciada a escala, tolerância, nem disponibilidade, são geralmente construidos em um serviço
   - DB
 
-![picture 4](images/764dbd250d0871158df94b5c1e5877055c1b3756a26feb99b031995d817cd4fb.png)  
+![picture 4](images/764dbd250d0871158df94b5c1e5877055c1b3756a26feb99b031995d817cd4fb.png)
+
+
+#### Cenários de Núvem
+
+- All-In cloud
+- Hybrid
+
+#### Microsserviços
+
+![picture 5](images/57bbf895a13f5d4b5978b48058bafa0de0767de73d757e51a899e334c833afe2.png)  
+
+- Agilidade - Features específicas por ms (arquitetura mais rápida em ms específico)
+- Escalabilidade flexível - não é necessário pensar em escalar monolito, somente o MS (lei de ahmdal)
+- Liberdade Tecnológica - Não é necessário que outro ms conheça outro, somente a interface de comunicação entre eles
+- Código reutilizável
+- Resiliência (isolation)
+- Deploy fácil
+
+##### Melhores práticas
+- Trocar os componentes sem quebrá-los
+  - A interface de comunicação é um contrato (tipo o gRPC ou Ethereum)
+  - Cada um dos microsserviços é dono de seu processo
+
+- Usar uma API simples
+  - Diminui o custo de usar o serviço
+  - É possível esconder os detalhes
