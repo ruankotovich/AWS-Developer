@@ -21,10 +21,52 @@
 - PaaS - Platform as a service - rodar aplicações sem gerenciar a infraestrutura (RDS, por exemplo)
 - SaaS - software as service (Lamnda, por exemplo)
 - Parar de pensar a infraestrutura como hardware, e sim pensar nela como um software (seviço). 
-- Não é necessário administrar um datacenter
-- Pensar na aplicação, e só
-- "o servidor não tá dimensionado direitinho...", rapidamente modificável
-  
+
+
+
 #### Benefícios
 
 ![picture 1](images/9168a8a79e63918ccacfcd1a0cf53241ea73d96287b2d3934bd628d98f534883.png)  
+
+- Não é necessário administrar um datacenter
+- Pensar na aplicação, e só
+- "o servidor não tá dimensionado direitinho...", rapidamente modificável
+- Despezas variáveis
+- On demand
+- Maior utilizações, Menor preço (massive economies of scale)
+- Elasticidade
+- Agilidade de recursos
+- Ubiquidade
+
+### Service Stack
+![picture 2](images/b19483851c3a7dd4185a51b774080e6710ac290f2abb5ea4105eca06f0d59547.png)
+
+![picture 3](images/a0a808d79a26cf1da9a6109bbb0e0e38fce133789932dea4f295d3dcfa2d695a.png)  
+
+
+- Serviços de Computação
+  - EC2
+- Serviços de Networking
+  - VPC
+  - Route 53
+- Serviços de Armazenamento
+  - S3 - armazenamento de objetos.
+  - S3 Glacier - o mesmo que o S3, só que baseado em long-term-storage.
+  - EBS - dimensionamento de disco, escolhendo com throughput otimizado, etc.
+  - EFS - totalmente gerenciado para compartilhamento de arquivos, não é necessário dimensionar, ele é autoescalável, escolher zona de disponibilidade, várias instâncias concorrentes. (petabytes)
+- Serviços de Gerenciamento
+  - CloudWatch - monitoramento e observação criado para engenheiros de DevOps
+  - CloudTrail - "Dedo duro", registra todas as chamadas de API dentro da conta
+  - CloudFormation - IaC
+
+#### Serviços gerenciados vs Não Gerenciados
+
+##### Não Gerenciados
+- Você gerencia somente a escala, a tolerância a falha e a disponibilidade, mas não o hardware.
+  - EC2
+
+##### Gerenciados
+- Não é gerenciada a escala, tolerância, nem disponibilidade, são geralmente construidos em um serviço
+  - DB
+
+![picture 4](images/764dbd250d0871158df94b5c1e5877055c1b3756a26feb99b031995d817cd4fb.png)  
