@@ -3,6 +3,9 @@
 ## Opções de Armazenamento
 
 - S3
+  - "uma biblioteca"
+    - Bucket = Prateleira
+    - Object = Livro
 - S3 Glacier
   - Long-term storage
   - Baixo custo para armazenamento de longa data, durabilidade alta
