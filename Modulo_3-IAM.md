@@ -41,3 +41,10 @@ Políticas geram permissões para usuários em grupos com determinados papeis
   
   `arn:aws:<service>:<region>:<account>:<resource_id>`
 
+
+## Autenticação
+
+- AWS Authentication
+- Resource authentication
+- App authentication
+- DB authentication
