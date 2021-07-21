@@ -6,7 +6,7 @@
   - "uma biblioteca"
     - Bucket = Prateleira
     - Object = Livro
-    - Revisão do livro -> Versão do Objeto :book:
+    - Revisão do livro -> Versão do Objeto
 - S3 Glacier
   - Long-term storage
   - Baixo custo para armazenamento de longa data, durabilidade alta
