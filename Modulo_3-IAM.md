@@ -48,3 +48,7 @@ Políticas geram permissões para usuários em grupos com determinados papeis
 - Resource authentication
 - App authentication
 - DB authentication
+
+## Credentials
+- .aws/credentials - arquivo de chave
+- É preferível usar as ROLES
