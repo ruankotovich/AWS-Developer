@@ -35,4 +35,4 @@
 
 ## Componentes do S3
 - Escopo regional
-  - `https://<bucket_name>:`
+  - `https://<bucket_name>.s3.<region_endpoint>.amazonaws.com`
