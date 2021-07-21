@@ -11,5 +11,6 @@
     - Standard - 3 a 5 horas ($$)
     - Bulk - até 12 horas ($)
 - EFS
+  - Multiplos acessos
 - Storage Gateway
 - EBS
