@@ -96,3 +96,19 @@
 - Usar uma API simples
   - Diminui o custo de usar o serviço
   - É possível esconder os detalhes
+
+- Tratar como stateless (não armazenar informações nem dados de sessão)
+
+##### Desacoplamento
+- Orientado a eventos
+  - AWS Lambda - Responde a eventos da infraestrutura AWS (event driven, reactive)
+
+- Orientado a serviços
+  - gRPC
+  - HTTP
+  - Kafka
+  - SQS
+  - RabbitMQ
+
+
+ ![picture 7](images/0f6f121009d50895cad49980c14085a7dd779036a10d53c5a4828bb1c15727f7.png)  
