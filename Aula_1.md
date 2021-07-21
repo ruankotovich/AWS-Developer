@@ -24,3 +24,7 @@
 - Não é necessário administrar um datacenter
 - Pensar na aplicação, e só
 - "o servidor não tá dimensionado direitinho...", rapidamente modificável
+  
+#### Benefícios
+
+![picture 1](images/9168a8a79e63918ccacfcd1a0cf53241ea73d96287b2d3934bd628d98f534883.png)  
