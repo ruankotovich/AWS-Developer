@@ -130,3 +130,11 @@
 #### Seleção de Região
 
 ![picture 9](images/cfb1ab941180f738b8f9d923f3e91cff64e122c170147717624427c8fc16bd38.png)  
+
+
+#### AWSFoundations
+
+- EC2
+  - Pay-as-you-go
+  - Cria máquinas Amazon
+  - Adiciona, pausa ou remove instancias quando requeridas
