@@ -136,5 +136,29 @@
 
 - EC2
   - Pay-as-you-go
+    - On-Demand
+    - Instâncias Reservadas
+    - Instâncias Spot - Leilão maluco
   - Cria máquinas Amazon
   - Adiciona, pausa ou remove instancias quando requeridas
+
+![picture 10](images/ebe2304e9adf7ad8f04a087b95c5dcad7b64c224cd612b6fe0f0d2c176f77e02.png)  
+
+- ELB (Elastic Load Balancing)
+  - Distribui o tráfego dentre as instâncias EC2, em diversas zonas de disponibilidade.
+  - Suporta o healthcheck das instâncias
+  - Suporta o roteamento e o load-balance de tráfego
+    - HTTP, HTPS, SSL, UDP e TCP
+  - Sticky Sessions (útil para serverfull)
+    - Bind de user para uma instância
+    - Impacta o tempo de resposta (sobrecarga)
+    - Limitar a escalabilidade
+  - EC2 Autoscaling
+    - Grupos de AUtoscaling (como se fosse um master-worker)
+    - Operações
+      - Outscaling
+      - Inscaling
+    - Tipo de escala
+      - Manual
+      - Scheduled
+      - Dinâmico
