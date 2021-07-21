@@ -14,4 +14,7 @@
   - Multiplos acessos
   - Mount point
 - Storage Gateway
+  - Armazenamento virtualmente ilimitado
 - EBS
+  - Montado via network
+  - Armazenamento de bloco de longa data
