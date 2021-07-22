@@ -67,5 +67,16 @@
 
 - Não é possível escolher de qual réplica consultar
 
+#### Itens e atributos
+- Key value item
+- Document item
+
+#### Modelos de consistência
+- RCU (Read Capacity Unit)
+  - Lê 4KB/s
+  - Leitura Eventual (0.5 RCU)
+  - Leitura Forte (1 RCU)
+- WCU (Write Capacity Unit)
+
 ### [Amazon DMS](https://aws.amazon.com/pt/dms/)
 - Schema Convertion Tool
