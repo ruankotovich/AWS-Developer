@@ -76,3 +76,7 @@
 - Requests
   - Evitar requests desnecessárias (a busca pode ser loka)
   - Checar se o bucket existe
+- Latência
+  - Escolher a região
+  - Comprimir antes de enviar pra S3
+  - Utilizar uma CDN para distribuição de conteúdo 
