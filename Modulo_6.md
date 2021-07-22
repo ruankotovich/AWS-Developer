@@ -51,3 +51,4 @@
 ### Amazon DynamoDB
 - SGBD não relacional
 - Alta disponibilidade
+- Resposta de operação consistente
