@@ -20,9 +20,12 @@
    - Oracle
    - PostgreSLQ
    - MySQL
-   - Amazon Aurora (Engine da AWS desenhada pra núvem)
  - Autoscalável
  - Replicação
    - Read Replica (Worker)
    - Secondary Replica (Slave)
  - Backups por até 35 dias (mesmo deletando a instância principal)
+
+### Amazon Aurora (Engine da AWS desenhada pra núvem)
+- Postgres -> 5x mais rápido que o RDS
+- MySQL -> 3x mais rápido que o RDS
