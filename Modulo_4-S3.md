@@ -62,10 +62,12 @@
     - Deleta os objetos, criando as marcas de deleção
   - LIST
     - Lista prefixos (pastas ou prefixos mesmo)
-    
+
 #### Agregados
   - Presigned URLs
     - Uma URL que já possui as credenciais necessárias para acessar o objeto
     - Expirável
   - Encryption
     - Segurança dos dados em trânsito
+  - CORS
+    - Definir regras de acesso para domínios externos
