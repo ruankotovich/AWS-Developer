@@ -47,3 +47,7 @@
 ### Amazon Neptune
 - Banco de dados em grafo
 - Alcance e engajamento de perfis em redes sociais
+
+### Amazon DynamoDB
+- SGBD não relacional
+- Alta disponibilidade
