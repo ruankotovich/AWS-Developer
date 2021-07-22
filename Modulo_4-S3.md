@@ -49,3 +49,5 @@
       - Move objetos entre as locations do S3
     - No máximo 5GB em um upload simples
     - No máximo 5TB em um upload multipart (piecewise)
+    - Mantém o estado do upload
+      - Quando o upload é interrompido, os metadados dizem de onde continuar
