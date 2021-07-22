@@ -1,6 +1,6 @@
 # Módulo 4
 
-## Opções de Armazenamento
+## Overview das opções de Armazenamento
 
 - S3
   - "uma biblioteca"
