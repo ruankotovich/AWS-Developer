@@ -90,3 +90,4 @@
   - Permissões
   - Logging do SDK
   - Logging do server
+  - Checar a [documentação de errors](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
