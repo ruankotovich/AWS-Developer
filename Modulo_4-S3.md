@@ -54,3 +54,5 @@
   - GET
     - Completo
     - Piecewise (range of bytes)
+  - SELECT
+    - Expressões SQL
