@@ -71,3 +71,8 @@
     - Segurança dos dados em trânsito
   - CORS
     - Definir regras de acesso para domínios externos
+
+### Performance
+- Requests
+  - Evitar requests desnecessárias (a busca pode ser loka)
+  - Checar se o bucket existe
