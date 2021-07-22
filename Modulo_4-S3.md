@@ -56,3 +56,8 @@
     - Piecewise (range of bytes)
   - SELECT
     - Expressões SQL
+    - Similar ao AWS Athena
+  - DELETE
+    - Deleta os objetos, criando as marcas de deleção
+  - LIST
+    - Lista prefixos (pastas ou prefixos mesmo)
