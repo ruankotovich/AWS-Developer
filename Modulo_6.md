@@ -23,3 +23,5 @@
    - Amazon Aurora (Engine da AWS desenhada pra núvem)
  - Autoscalável
  - Replicação
+   - Read Replica (Worker)
+   - Secondary Replica (Slave)
