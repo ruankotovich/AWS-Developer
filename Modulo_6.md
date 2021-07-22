@@ -25,3 +25,4 @@
  - Replicação
    - Read Replica (Worker)
    - Secondary Replica (Slave)
+ - Backups por até 35 dias (mesmo deletando a instância principal)
