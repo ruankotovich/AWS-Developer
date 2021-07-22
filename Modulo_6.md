@@ -8,3 +8,8 @@
 - Bancos relacionais são melhores para operações OLAP
 - Bancos não relacionais são melhores para operações VOLATILES ou TRANSITORY (OLTP)
 
+
+
+## AWS Database Options
+![picture 3](images/5058e477c275e500f156879ca7d1bf796890d99c734c009142501e33391878d4.png)  
+
