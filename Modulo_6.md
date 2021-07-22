@@ -61,7 +61,11 @@
   - Atributos
 
 ![picture 4](images/c243ce2587b1d54ef532e3b3f1018b985363580cb88d42009855b32b9451d6ad.png)  
+- Busca por SortKeys de uma PK
 
+![picture 5](images/35cd994fabc9938f60b859ce393417e123e03c2351fe1498d572d59217625c16.png)  
+
+- Não é possível escolher de qual réplica consultar
 
 ### [Amazon DMS](https://aws.amazon.com/pt/dms/)
 - Schema Convertion Tool
