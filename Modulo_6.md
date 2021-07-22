@@ -114,5 +114,9 @@
     - BatchGet
     - BatchWrite
 
-#### Workload distribuido
+#### Boas Práticas
 - Distribuição de Workload entre partições com WCU/RCU ociosas
+![picture 1](images/961ef6811075129e74396678e1cb2e6d8e8fa946b43aa422dc3c77a4298d83e5.png)  
+
+- Usar índices esparsos
+  - Não criar para atributos que não estão sendo utilizados
