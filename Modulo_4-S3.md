@@ -41,6 +41,7 @@
 - Backup e arquivamento (nosso caso)
 
 ### Operações
+#### CRUD
   - PUT
     - Upload de objetos
     - Copia do objeto
@@ -61,3 +62,10 @@
     - Deleta os objetos, criando as marcas de deleção
   - LIST
     - Lista prefixos (pastas ou prefixos mesmo)
+    
+#### Agregados
+  - Presigned URLs
+    - Uma URL que já possui as credenciais necessárias para acessar o objeto
+    - Expirável
+  - Encryption
+    - Segurança dos dados em trânsito
