@@ -59,8 +59,8 @@
 
 #### Tabelas e Partições
 - Tabelas
-  - Partition Keys
-  - Sort Keys (opcional)
+  - Partition Keys (HASH)
+  - Sort Keys (RANGE) (opcional)
   - Atributos
 
 ![picture 4](images/c243ce2587b1d54ef532e3b3f1018b985363580cb88d42009855b32b9451d6ad.png)  
