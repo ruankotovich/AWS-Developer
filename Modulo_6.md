@@ -13,3 +13,11 @@
 ## AWS Database Options
 ![picture 3](images/5058e477c275e500f156879ca7d1bf796890d99c734c009142501e33391878d4.png)  
 
+### Amazon RDS
+ - Suporta diversos bancos de dados
+   - SQL Server
+   - MariaDB
+   - Oracle
+   - PostgreSLQ
+   - MySQL
+   - Amazon Aurora (Engine da AWS desenhada pra núvem)
