@@ -29,3 +29,7 @@
 ### Amazon Aurora (Engine da AWS desenhada pra núvem)
 - Postgres -> 5x mais rápido que o RDS
 - MySQL -> 3x mais rápido que o RDS
+- Alta disponibilidade
+- Alta performance
+- Alta escalabilidade
+- Multiregiões
