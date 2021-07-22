@@ -41,5 +41,11 @@
 - Backup e arquivamento (nosso caso)
 
 ### Operações
-  - Put
-
+  - PUT
+    - Upload de objetos
+    - Copia do objeto
+      - Cria uma cópia
+      - Renomeia o objeto criando uma cópia e deletando o original
+      - Move objetos entre as locations do S3
+    - No máximo 5GB em um upload simples
+    - No máximo 5TB em um upload multipart (piecewise)
