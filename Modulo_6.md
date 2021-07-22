@@ -107,3 +107,5 @@
     - Escrita
     - Deleção
     - Modificação
+  - Tabelas Globais
+    - Replicadas em diferentes Regions
