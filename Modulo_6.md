@@ -52,3 +52,5 @@
 - SGBD não relacional
 - Alta disponibilidade
 - Resposta de operação consistente
+
+AMAZON DMS
