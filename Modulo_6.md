@@ -43,3 +43,7 @@
 ### Amazon ElastiCache
 - In memory data storage
 - Fully managed
+
+### Amazon Neptune
+- Banco de dados em grafo
+- Alcance e engajamento de perfis em redes sociais
