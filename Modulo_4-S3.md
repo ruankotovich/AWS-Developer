@@ -56,7 +56,7 @@
     - Piecewise (range of bytes)
   - SELECT
     - Expressões SQL
-    - Similar ao AWS Athena
+    - Similar ao [AWS Athena](https://aws.amazon.com/pt/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
   - DELETE
     - Deleta os objetos, criando as marcas de deleção
   - LIST
