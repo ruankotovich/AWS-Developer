@@ -18,3 +18,6 @@
 - "FUNCTION AS A CODE"
 
 ![picture 4](images/4cd584414dde40ccc1ed9e14f099934831488e3d5307685ba9ab14996624f365.png)  
+
+- Integra nativamente com outros serviços da AWS
+- Runtime [Firecracker](https://firecracker-microvm.github.io/)
