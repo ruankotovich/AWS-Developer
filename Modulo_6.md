@@ -52,5 +52,7 @@
 - SGBD não relacional
 - Alta disponibilidade
 - Resposta de operação consistente
+- Suporta documentos
 
-AMAZON DMS
+### [Amazon DMS](https://aws.amazon.com/pt/dms/)
+- Schema Convertion Tool
