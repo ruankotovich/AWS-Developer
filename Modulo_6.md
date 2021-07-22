@@ -110,3 +110,9 @@
   - Tabelas Globais
     - Replicadas em diferentes Regions
   - Backups
+  - Operações Secundárias
+    - BatchGet
+    - BatchWrite
+
+#### Workload distribuido
+- Distribuição de Workload entre partições com WCU/RCU ociosas
