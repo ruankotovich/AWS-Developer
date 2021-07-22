@@ -39,3 +39,7 @@
 - SQL Query em dados não estruturados no S3
 - Suporta vários formatos
 - Suporta vários BIs
+
+### Amazon ElastiCache
+- In memory data storage
+- Fully managed
