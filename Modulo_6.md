@@ -85,8 +85,9 @@
 #### Índices secundários
 - Habilita queries para atributos não-chave
 - Dois tipos
-  - GSI
-  - LSI
+  - GSI (Global Secondary Index)
+    - 
+  - LSI (Local Secondary Index)
     ![picture 7](images/5e92af3d5f2894aac3600cd7a2f331c77462495b890a1c68218d48ac243e574d.png)  
     - Troca de sort-keys
     - Chave de partição se mantém
