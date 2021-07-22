@@ -89,6 +89,7 @@
     ![picture 8](images/07afa8a7ca004093d748f0653b1397e7696b4780c648cdf792625d37d913fc40.png)  
     - Outra partição de dados
     - Projeção dos dados (cópia, nesse caso)
+    - Somente consistência eventual (pois é uma duplicação)
 
   - LSI (Local Secondary Index)
     ![picture 7](images/5e92af3d5f2894aac3600cd7a2f331c77462495b890a1c68218d48ac243e574d.png)  
