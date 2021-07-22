@@ -97,4 +97,13 @@
     - Chave de partição se mantém
     - Duplica a tabela, mas a segunda parte (duplicada) com o sort_key trocado com a nova chave de busca (um attribute)
     - Somente é possível criar o índice no momento de criação da tabela
+
 #### Streams
+- Permite criar stream de dados
+  ![picture 9](images/0754827899fa2185e245959125d076227799f8c9016b8058657ca4a3a5782794.png)  
+
+  - Eventos de modificação
+    - Leitura
+    - Escrita
+    - Deleção
+    - Modificação
