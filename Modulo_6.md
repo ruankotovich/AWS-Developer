@@ -120,3 +120,4 @@
 
 - Usar índices esparsos
   - Não criar para atributos que não estão sendo utilizados
+- Em índices globais, só levar os atributos importantes
