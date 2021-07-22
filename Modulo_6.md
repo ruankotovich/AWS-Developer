@@ -87,6 +87,7 @@
 - Dois tipos
   - GSI
   - LSI
+    ![picture 7](images/5e92af3d5f2894aac3600cd7a2f331c77462495b890a1c68218d48ac243e574d.png)  
     - Troca de sort-keys
     - Chave de partição se mantém
     - Duplica a tabela, mas a segunda parte (duplicada) com o sort_key trocado com a nova chave de busca (um attribute)
