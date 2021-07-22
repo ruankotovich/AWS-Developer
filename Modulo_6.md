@@ -63,7 +63,8 @@
 ![picture 4](images/c243ce2587b1d54ef532e3b3f1018b985363580cb88d42009855b32b9451d6ad.png)  
 - Busca por SortKeys de uma PK
 
-![picture 5](images/35cd994fabc9938f60b859ce393417e123e03c2351fe1498d572d59217625c16.png)  
+![picture 6](images/5d61cea78237c791267333c67d839e33ba3ce4dd2be791116bfb0702f6db7214.png)  
+
 
 - Não é possível escolher de qual réplica consultar
 
