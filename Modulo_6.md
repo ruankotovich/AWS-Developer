@@ -48,6 +48,9 @@
 - Banco de dados em grafo
 - Alcance e engajamento de perfis em redes sociais
 
+### [Amazon DMS](https://aws.amazon.com/pt/dms/)
+- Schema Convertion Tool
+
 ### Amazon DynamoDB
 - SGBD não relacional
 - Alta disponibilidade
@@ -79,9 +82,6 @@
   - Leitura Forte (1 RCU)
 - WCU (Write Capacity Unit)
 
-### [Amazon DMS](https://aws.amazon.com/pt/dms/)
-- Schema Convertion Tool
-
 #### Índices secundários
 - Habilita queries para atributos não-chave
 - Dois tipos
@@ -97,3 +97,4 @@
     - Chave de partição se mantém
     - Duplica a tabela, mas a segunda parte (duplicada) com o sort_key trocado com a nova chave de busca (um attribute)
     - Somente é possível criar o índice no momento de criação da tabela
+#### Streams
