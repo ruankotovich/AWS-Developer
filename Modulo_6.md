@@ -33,3 +33,9 @@
 - Alta performance
 - Alta escalabilidade
 - Multiregiões
+
+### Amazon Redshift
+- Data Warehouse
+- SQL Query em dados não estruturados no S3
+- Suporta vários formatos
+- Suporta vários BIs
