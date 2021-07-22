@@ -90,3 +90,4 @@
     - Troca de sort-keys
     - Chave de partição se mantém
     - Duplica a tabela, mas a segunda parte (duplicada) com o sort_key trocado com a nova chave de busca (um attribute)
+    - Somente é possível criar o índice no momento de criação da tabela
