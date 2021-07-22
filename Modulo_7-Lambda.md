@@ -23,3 +23,8 @@
 - Runtime [Firecracker](https://firecracker-microvm.github.io/)
 
 ![picture 5](images/b41217ddb826c8fb81fe955551d72c32fae54b06a60bb2c9f30fef4baeb99096.png)  
+
+- Variáveis de Ambiente
+- Diferentes Runtime
+- Ferramentas de monitoramento
+- Publicação de Logs pro CloudWatch
