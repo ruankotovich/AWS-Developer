@@ -21,3 +21,5 @@
    - PostgreSLQ
    - MySQL
    - Amazon Aurora (Engine da AWS desenhada pra núvem)
+ - Autoscalável
+ - Replicação
