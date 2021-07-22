@@ -79,4 +79,14 @@
 - Latência
   - Escolher a região
   - Comprimir antes de enviar pra S3
-  - Utilizar uma CDN para distribuição de conteúdo 
+  - Utilizar uma CDN para distribuição de conteúdo
+
+### Integridade dos dados
+  - Garantir que os dados não estã corrompidos antes de enviar 
+    - MD5SUM
+    - SHA512SUM
+
+### Resolução de problemas
+  - Permissões
+  - Logging do SDK
+  - Logging do server
