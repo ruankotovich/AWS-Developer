@@ -83,3 +83,8 @@
 - Schema Convertion Tool
 
 #### Índices secundários
+- Habilita queries para atributos não-chave
+- Dois tipos
+  - GSI
+  - LSI
+    - Troca de sort-keys
