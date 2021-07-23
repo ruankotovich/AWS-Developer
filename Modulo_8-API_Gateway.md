@@ -20,3 +20,4 @@
 - Importação
 - SDK Generation (para aplicações)
 - Mocking
+- Criação de planos de utilização
