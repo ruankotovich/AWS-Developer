@@ -36,5 +36,11 @@
 ### Casos de Uso
 - Processamento de imagem
 - S3 inicia a máquina de estados
+- Amazon Rekognition
+  - Reconhece labels na imagem
+    - Pessoas
+    - Objetos
+    - Pessoa triste
+    - Pessoa feliz
 
 ![picture 6](images/3b782eddafb290c16a175ab80fcb133024ffafa4f103bebc31c83244651c7299.png)  
