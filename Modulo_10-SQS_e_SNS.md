@@ -12,3 +12,11 @@
   - Número de mensagens recebidas
 - Deletion
   - Deleção chamada pelo consumidor
+
+### Operações
+- Criar Fila
+- Estipular atributos da fila
+- Recuperar atributos da fila
+- Recuperar URI da fila
+- Listar filas
+- deletar fila
