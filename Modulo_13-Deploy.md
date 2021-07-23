@@ -39,4 +39,3 @@
   - Implementar o artefato no servidor (deploy)
   - Hooks
     - Testar antes de implementar
-    - 
