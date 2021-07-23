@@ -5,3 +5,11 @@
 - Motivação : retries, paralelismo. 
 - Orquestrador de funções, que criam e cordenam (workflow) baseado em uma máquina de estados
 - Ciclo de vida da aplicação
+
+### Benefícios
+- Produtividade
+  - Construção de aplicações mais simples
+- Agilidade
+  - Escala e recuperação
+- Adaptação
+  - Evoluir aplicações facilmente
