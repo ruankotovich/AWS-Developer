@@ -19,3 +19,4 @@
 - Deploy 
 - Importação
 - SDK Generation (para aplicações)
+- Mocking
