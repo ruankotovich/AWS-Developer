@@ -41,3 +41,13 @@
 ### Scheduling
 -   Fixar uma expressão (minuto, hora)
 -   Cronjob (1/2 * * * *), qualquer combinação
+
+### Melhores práticas
+- Separar o entrypoint da lógica da aplicação
+  - Minimizar o coldstart da aplicação
+- Tomar vantagem de reutilização do contexto
+- Utilizar variáveis de ambiente
+- Controlar as dependencias no pacote de deploy
+- Minimizar a complexidade das dependencias (sem node-gyp, por exemplo)
+- Evitar código recursivo (quem usa isso?)
+- Compartilhar dependencias comuns entre as camadas
