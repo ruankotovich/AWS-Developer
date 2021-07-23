@@ -37,3 +37,11 @@
   - Email
   - SMS
   - Mobile (Push Notifications)
+
+### Operações
+ - CreateTopic
+ - Subscribe
+ - DeleteTopic
+ - Publish
+
+![picture 10](images/d5863cac111f837668fe9a40601310df4ef73d1fc3c33e3f116e701ac4991a3c.png)  
