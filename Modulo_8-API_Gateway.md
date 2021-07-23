@@ -12,7 +12,7 @@
 ![picture 2](images/07e5126fdb752bcbbb103b0b1877ae6bb10d281d2af0746012d214d0fa4f00d5.png)  
 
 
-## Features
+### Features
 - Montagem das rotas
 - Teste da API
 - Log de respostas
@@ -23,7 +23,11 @@
 - Criação de planos de utilização
 
 
-## Melhores práticas
+### Melhores práticas
 - Deploy na mesma região que os clientes
 - Testar as APIs antes de dar deploy (kkkkkkkkkk)
 - Cache somente de GET (kkkkkkkkkkkkkkkkkkkkkkk)
+
+## AWS SAM (Serverless Application Model)
+
+- Template Driver Deployment
