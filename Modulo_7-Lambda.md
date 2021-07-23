@@ -36,4 +36,8 @@
 ### Política de acesso
 1. Role
 2. Permissões para assumir a Role
-3. Attach a role
+3. Attach da permissão
+
+### Scheduling
+-   Fixar uma expressão (minuto, hora)
+-   Cronjob (1/2 * * * *), qualquer combinação
