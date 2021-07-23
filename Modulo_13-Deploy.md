@@ -28,4 +28,15 @@
     - Parametrizar todo o processo de construção 
     - Instalar dependências
 - AWS CodePipeline
+  - Criar uma esteira CI/CD de forma interativa, visual e centralizada
+  - Controlar as etapas do processo, transição, ações em paralelo entre as etapas
+  - Notificação quando é necessário aprovação manual
+  - Notificação quando é encontrado um erro
 - AWS CodeStar
+  - Ferramenta de gerenciamento de projeto
+  - Todos os outros centralizados em um dashboard
+- AWS CodeDeploy
+  - Implementar o artefato no servidor (deploy)
+  - Hooks
+    - Testar antes de implementar
+    - 
