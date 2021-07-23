@@ -63,7 +63,7 @@
 
 ## Amazon MQ
 - Broker gerenciado de messagens para Apache MQ
-- JMS
-- AMQP
-- STOMP
-- MQTT
+    - JMS
+    - AMQP
+    - STOMP
+    - MQTT
