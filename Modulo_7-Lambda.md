@@ -28,3 +28,8 @@
 - Diferentes Runtime
 - Ferramentas de monitoramento
 - Publicação de Logs pro CloudWatch
+
+### Execution Model
+![picture 1](images/d726d976f18ef2bd0bfbf7789116645774f89a7adbb6678f520fca5899481746.png)  
+
+
