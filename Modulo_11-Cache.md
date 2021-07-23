@@ -8,6 +8,6 @@
 - Provê um enorme ganho de performance
 
 ### Quando utilizar
--  Data requer uma operação lenta ao ser adquiridos (SAP kkkk)
+-  Data requer uma operação lenta ao ser adquiridos (SAP :P)
 -  Dados relativamente estáticos e frequentemente acessados (perfil de rede social)
 -  Informações que podem ficar antigas por algum tempo (previsão climática)
