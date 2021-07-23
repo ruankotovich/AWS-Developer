@@ -28,3 +28,12 @@
 
 ![picture 9](images/da0d0bb54ea446070d2aa7ca3f0f790835485e80171c33a8fb7397a2aacf382e.png)  
 
+
+## SNS
+- Tópicos
+  - AWS Lambda
+  - SQS
+  - HTTP
+  - Email
+  - SMS
+  - Mobile (Push Notifications)
