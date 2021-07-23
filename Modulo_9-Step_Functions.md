@@ -13,3 +13,10 @@
   - Escala e recuperação
 - Adaptação
   - Evoluir aplicações facilmente
+
+
+### Terminologia
+
+![picture 4](images/f805077b9a65d1e6ac28b5372ba351bc27acd4eef63c623006a9ee43890ff67f.png)  
+
+
