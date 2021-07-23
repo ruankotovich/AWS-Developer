@@ -31,3 +31,4 @@
 ## AWS SAM (Serverless Application Model)
 
 - Template Driver Deployment
+- AWS Cloudformation Deployment
