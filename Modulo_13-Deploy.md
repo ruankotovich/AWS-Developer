@@ -8,6 +8,18 @@
 
 ## CI/CD
 - Processo de construção de software
-![picture 19](images/d9d4746abc066461f231fe783da071bae1594fb390461a014692b6260c498e23.png) 
+![picture 20](images/54017ab580c0a1d3b1a0796410a2f3f49907ab1818bf710d53bc8b2a8e98a0ea.png)  
+
+- IaaC
+  - Todos os recursos para rodar a aplicação disponíveis e configuradas
+    - Infraestrutura
 
 ## AWS Code Services
+
+![picture 21](images/fda6071234f28e7d2b64b901f6a9f3702a7f3fcfd9bed2db7a49cf435e56912a.png)  
+
+
+- AWS CodeCommit
+  - Repositório centralizado
+  - Escalável
+  - 
