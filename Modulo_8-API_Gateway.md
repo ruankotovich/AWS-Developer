@@ -21,3 +21,9 @@
 - SDK Generation (para aplicações)
 - Mocking
 - Criação de planos de utilização
+
+
+## Melhores práticas
+- Deploy na mesma região que os clientes
+- Testar as APIs antes de dar deploy (kkkkkkkkkk)
+- Cache somente de GET (kkkkkkkkkkkkkkkkkkkkkkk)
