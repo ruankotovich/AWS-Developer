@@ -33,3 +33,7 @@
 ![picture 1](images/d726d976f18ef2bd0bfbf7789116645774f89a7adbb6678f520fca5899481746.png)  
 
 
+### Política de acesso
+1. Role
+2. Permissões para assumir a Role
+3. Attach a role
