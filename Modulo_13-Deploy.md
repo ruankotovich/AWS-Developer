@@ -22,4 +22,10 @@
 - AWS CodeCommit
   - Repositório centralizado
   - Escalável
-  - 
+- AWS CodeBuild
+  - Gera um servidor de build (Servless)
+  - Build Spec 
+    - Parametrizar todo o processo de construção 
+    - Instalar dependências
+- AWS CodePipeline
+- AWS CodeStar
