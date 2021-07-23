@@ -1,7 +1,7 @@
 # Módulo 10
 
 
-## SQS
+## Amazon SQS
 - Consumidor não pode processar todas as requisições de uma vez
 - Gargalo
 - Desacoplamento do consumidor e produtor
@@ -29,7 +29,7 @@
 ![picture 9](images/da0d0bb54ea446070d2aa7ca3f0f790835485e80171c33a8fb7397a2aacf382e.png)  
 
 
-## SNS
+## Amazon SNS
 - Tópicos
   - AWS Lambda
   - SQS
@@ -59,3 +59,11 @@
 
 ![picture 12](images/5067011db29be9fb29b025f8d0e78795bff321e402d382c68d0c6e0988cf074a.png)  
 
+
+
+## Amazon MQ
+- Broker gerenciado de messagens para Apache MQ
+- JMS
+- AMQP
+- STOMP
+- MQTT
