@@ -25,3 +25,12 @@
 
 ![picture 5](images/990d937ff707ed9112f5ab32b9f9698cf830a3f967f4bda05ffe530255ae4a56.png)  
 
+
+### Integrações
+-  Lambda
+-  CloudTrail
+-  CloudFormation
+-  HTTP/Ajax
+-  SAM
+
+### Casos de Uso
