@@ -32,5 +32,3 @@
 -  CloudFormation
 -  HTTP/Ajax
 -  SAM
-
-### Casos de Uso
