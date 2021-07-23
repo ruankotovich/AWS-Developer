@@ -53,3 +53,9 @@
 
 
 ![picture 10](images/d5863cac111f837668fe9a40601310df4ef73d1fc3c33e3f116e701ac4991a3c.png)  
+
+
+### Comparativo entre SQS e SNS
+
+![picture 12](images/5067011db29be9fb29b025f8d0e78795bff321e402d382c68d0c6e0988cf074a.png)  
+
