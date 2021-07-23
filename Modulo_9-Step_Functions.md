@@ -4,3 +4,4 @@
 ## Step Functions
 - Motivação : retries, paralelismo. 
 - Orquestrador de funções, que criam e cordenam (workflow) baseado em uma máquina de estados
+- Ciclo de vida da aplicação
