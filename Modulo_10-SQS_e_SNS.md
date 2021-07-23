@@ -37,6 +37,7 @@
   - Email
   - SMS
   - Mobile (Push Notifications)
+- Subject pode ser usado para filtros
 
 ### Operações
  - CreateTopic
