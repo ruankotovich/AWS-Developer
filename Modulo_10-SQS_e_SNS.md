@@ -67,3 +67,7 @@
     - AMQP
     - STOMP
     - MQTT
+
+### MQ, SQS e SNS
+
+![picture 13](images/cdac7385733a8bd5227c95ef53eda64567d184fabd55c2a719b34ab4313a16e5.png)  
