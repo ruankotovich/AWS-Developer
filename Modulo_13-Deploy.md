@@ -39,3 +39,11 @@
   - Implementar o artefato no servidor (deploy)
   - Hooks
     - Testar antes de implementar
+
+## Estratégias de Deploy
+
+![picture 22](images/56ad81370be575fe6ad3ed21cb3af4eed78dc13ecf190b64c7cba22d843a9aa7.png)  
+
+
+![picture 23](images/8b6b70474a36936809f8750773324009e5c7fe0dad775054b9841f4a8877da46.png)  
+
