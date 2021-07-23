@@ -34,3 +34,6 @@
   - Google
   - Apple
   - Qualquer OpenID
+
+![picture 17](images/a8663a7f0dce75bfae9a6908e307fcde359b2257bd1fe5d0be4ba63397ee56f2.png)  
+
