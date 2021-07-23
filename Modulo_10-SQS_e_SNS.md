@@ -38,6 +38,8 @@
   - SMS
   - Mobile (Push Notifications)
 - Subject pode ser usado para filtros
+- Os tópicos precisam ser criados antes da utilização  
+  - Diferente do kafka, que os tópicos podem ser criados on-the-fly
 
 ### Operações
  - CreateTopic
