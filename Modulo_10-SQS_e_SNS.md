@@ -20,3 +20,6 @@
 - Recuperar URI da fila
 - Listar filas
 - deletar fila
+
+### Dead Letter Queue
+- Fila de mensagens que não consegui processar
